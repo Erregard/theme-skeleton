@@ -1,22 +1,22 @@
 {
-  "name": "kinanti-ui-kit",
+  "name": "theme-skeleton",
   "version": "1.0.0",
-  "description": "Free UI Kit with philosophy of nature",
+  "description": "Theme skeleton are code base for all Lovable Design theme and ui kit",
   "main": "gulpfile.babel.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ffadilaputra/kinanti-ui-kit.git"
+    "url": "git+https://github.com/lovable-design/theme-skeleton.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ffadilaputra/kinanti-ui-kit/issues"
+    "url": "https://github.com/lovable-design/theme-skeleton/issues"
   },
-  "homepage": "https://github.com/ffadilaputra/kinanti-ui-kit#readme",
+  "homepage": "https://github.com/lovable-design/theme-skeleton#readme",
   "dependencies": {
     "babel-register": "^6.26.0",
     "browser-sync": "*",
