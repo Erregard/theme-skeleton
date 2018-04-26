@@ -1,0 +1,8 @@
+/**
+ * theme-skeleton - Theme skeleton are code base for all Lovable Design theme and ui kit
+ * @author 
+ * @version v 1.0.0
+ * @link  
+ * @license ISC
+ */
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,yBACA,qBAAA,AAAa,oBAAb,AAAa,YAAA,CACd","file":"theme-skeleton.min.css","sourcesContent":["body {\n  background-color: #19dbac;\n  display: flex;\n}"]}
