@@ -14,9 +14,9 @@ import babel from 'gulp-babel'
 let banner = [
   '/**',
   ' * <%= sources.name %> - <%= sources.description %>',
-  ' * @author <%= sources.author.name %>',
-  ' * @version v <%= sources.version %>',
-  ' * @link <%= sources.author.homepage %> ',
+  ' * @author <%= sources.author %>',
+  ' * @version v<%= sources.version %>',
+  ' * @link <%= sources.homepage %> ',
   ' * @license <%= sources.license %>',
   ' */',
   ''
