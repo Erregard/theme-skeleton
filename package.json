@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/lovable-design/theme-skeleton/issues"
   },
-  "homepage": "https://github.com/lovable-design/theme-skeleton#readme",
+  "homepage": "https://github.com/lovable-design/theme-skeleton",
   "devDependencies": {
     "babel-register": "^6.26.0",
     "browser-sync": "*",
