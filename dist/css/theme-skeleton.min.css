@@ -5,5 +5,5 @@
  * @link  
  * @license MIT
  */
-body{font-family:Quicksand,sans-serif;font-weight:400}.font-quicksand-bold,.font-slab{font-weight:500}.font-slab{font-family:Roboto Slab,serif}
+body{font-family:Quicksand,sans-serif;font-weight:400}.font-quicksand-bold,.font-slab{font-weight:500}.font-slab{font-family:Roboto Slab,serif}body{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;height:100vh}body h1{font-weight:500;color:#cacaca}
 /*# sourceMappingURL=theme-skeleton.min.css.map */
