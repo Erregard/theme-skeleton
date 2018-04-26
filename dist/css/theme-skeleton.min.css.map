@@ -3,6 +3,6 @@
  * @author 
  * @version v 1.0.0
  * @link  
- * @license ISC
+ * @license MIT
  */
-{"version":3,"sources":["main.scss"],"names":[],"mappings":"AAAA,KACE,yBACA,qBAAA,AAAa,oBAAb,AAAa,YAAA,CACd","file":"theme-skeleton.min.css","sourcesContent":["body {\n  background-color: #19dbac;\n  display: flex;\n}"]}
+{"version":3,"sources":["helper/_fonts.scss"],"names":[],"mappings":"AAAA,KACE,iCACA,eAAgB,CACjB,AAGA,gCADC,eAAgB,CACjB,AAIA,WAFC,6BACA,CACD","file":"theme-skeleton.min.css","sourcesContent":["body {\n  font-family: 'Quicksand', sans-serif;\n  font-weight: 400;\n}\n.font-quicksand-bold {\n  font-weight: 500;\n}\n.font-slab {\n  font-family: 'Roboto Slab', serif;\n  font-weight: 500;\n}"]}

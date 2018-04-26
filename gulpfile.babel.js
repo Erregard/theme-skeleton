@@ -68,10 +68,8 @@ gulp.task('sass', () => {
 gulp.task('javascript', () => {
   return gulp.src('./js/**/*.js')
     .pipe(babel())
-    .pipe(sourcemaps.init())
     .pipe(concat(sources.name + '.min.js'))
     .pipe(uglify())
-    .pipe(sourcemaps.write('./'))
     .pipe(header(banner, { sources: sources }))
     .pipe(gulp.dest('./dist/js'))
     .pipe(browserSync.stream())

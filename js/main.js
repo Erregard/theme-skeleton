@@ -1,3 +1,3 @@
 const a = (x) => x * 2
 
-console.log(a(2))
+console.log('test:', a(2))

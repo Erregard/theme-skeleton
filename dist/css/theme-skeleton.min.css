@@ -3,7 +3,7 @@
  * @author 
  * @version v 1.0.0
  * @link  
- * @license ISC
+ * @license MIT
  */
-body{background-color:#19dbac;display:-webkit-flex;display:-ms-flexbox;display:flex}
+body{font-family:Quicksand,sans-serif;font-weight:400}.font-quicksand-bold,.font-slab{font-weight:500}.font-slab{font-family:Roboto Slab,serif}
 /*# sourceMappingURL=theme-skeleton.min.css.map */
